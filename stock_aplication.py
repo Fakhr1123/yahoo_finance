@@ -8,7 +8,7 @@ Shown are the stock closing price and volume of google!
          
 """)
 
-tickerSymbol= 'MSFT'
+tickerSymbol= 'GOOGL'
 
 tickerData= yf.Tickers(tickerSymbol)
 
